@@ -226,7 +226,7 @@
         <div class="content bottom-0">
             <div class="top-25 bottom-0"></div>
             <center>
-                2020 &copy;  Kulipikul.com<br/>
+                2020 &copy;  suryaprm.com<br/>
                 <i class="color-highlight">Source data  : https://kawalcorona.com//</i>
             </center>
         </div>
